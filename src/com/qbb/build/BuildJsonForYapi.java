@@ -688,7 +688,6 @@ public class BuildJsonForYapi {
                 items.set("properties", listKv);
                 items.set("type", "object");
                 items.set("required", requiredList);
-
                 KV results = new KV();
                 results.set("results", items);
                 results.set("results2", items);
