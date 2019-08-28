@@ -1206,7 +1206,7 @@ public class BuildJsonForYapi {
     }
 
     /**
-     * @description: 添加到文件路径列表
+     * @description: 添加到文件路径列表222
      * @param: [filePaths, psiClass]
      * @return: void
      * @author: chengsheng@qbb6.com
